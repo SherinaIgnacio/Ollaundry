@@ -1,0 +1,2 @@
+# Ollaundry
+Blog for laundry
